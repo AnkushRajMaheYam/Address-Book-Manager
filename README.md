@@ -18,7 +18,7 @@ Welcome to the Address Book Manager, a simple and easy-to-use website for managi
 3. Start managing your address book!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](E:\Coding\ARMY_Projects\Address-Book-Manager\LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/AnkushRajMaheYam/Address-Book-Manager/blob/main/LICENSE.md) file for details.
 
 ## Author
 This website was created by Ankush Raj Mahe Yam (ARMY). All rights reserved.
